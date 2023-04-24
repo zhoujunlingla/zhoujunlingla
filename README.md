@@ -23,7 +23,6 @@
 - 掘金：[zhoujunlingla](https://juejin.cn/user/831671614311239)
 - 知乎：[周俊玲](https://www.zhihu.com/people/itxia-26)
 - bilibili：[@zhoujunlingla](https://space.bilibili.com/1085321295?spm_id_from=333.1007.0.0)
-- codeforce: [@zhoujunl](https://codeforces.com/profile/zhoujunl)
 ---
 
 ⭐️ 由 [zhoujunlingla](https://github.com/zhoujunlingla) 创作
