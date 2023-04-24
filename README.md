@@ -21,7 +21,7 @@
 ## 社交媒体
 
 - 掘金：[zhoujunlingla](https://juejin.cn/user/831671614311239)
-- 知乎：[周俊玲](https://www.zhihu.com/people/itxia-26)
+- 知乎：[zhoujunlingla](https://www.zhihu.com/people/itxia-26)
 - bilibili：[@zhoujunlingla](https://space.bilibili.com/1085321295?spm_id_from=333.1007.0.0)
 ---
 
