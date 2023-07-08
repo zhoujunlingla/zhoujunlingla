@@ -1,28 +1,40 @@
+### Hi there 👋 
+### This is zhoujunlingla!
 
-你好，欢迎来到我的主页！i just code for fun！
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/zhoujunlingla)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zhoujunlingla@gmail.com)
 
-![GitHub followers](https://img.shields.io/github/followers/zhoujunlingla?style=social) ![GitHub stars](https://img.shields.io/github/stars/zhoujunlingla?style=social)
+Welcome to my Github page! I am zhoujunlingla and I am currently finishing my Computer Engineering undergraduate degree at the Hangzhou dianzi university!  
 
-## 关于我
+<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
-- 🔭 目前是hdu大二计算机学生
-- 🌱 学习领域：Web 开发、人工智能，各种有趣的lab,算法
-- 👯 愿意与志同道合的开发者一起合作、学习
-- 📫 如何联系我：发邮件至 zhoujunlingla@gmail.com
-- 😄 兴趣爱好：阅读、体育、旅行、音乐
 
-## 技能树
+#### 🌱 Things I am currently working on: 
+- Finish my Computer Engineering undergraduate Degree  
+- Taking online courses about Data Science and Machine Learning 
+- Complete the development of club projects and the research tasks of mentors 🚀 *coming soon*
 
-- 编程语言：Python, JavaScript, go, C++, HTML5, CSS3
-- 框架/库：React, Vue, Django, Flask, TensorFlow, PyTorch,gin
-- 数据库：MySQL, PostgreSQL, MongoDB
-- 开发工具：Git, GitHub, VSCode, Docker,goland,clion,pycharm
+#### :muscle: Things I am challenging myself with:
+- Waking up earlier to make good use of the day
+- Coding at least 5 hours a day
+- Exercising 4 days a week
+- Completing meaningful projects to make the world a better place
 
-## 社交媒体
+#### :computer: Programming languages and tools: 
+<p>
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
 
-- 掘金：[zhoujunlingla](https://juejin.cn/user/831671614311239)
-- 知乎：[zhoujunlingla](https://www.zhihu.com/people/itxia-26)
-- bilibili：[@zhoujunlingla](https://space.bilibili.com/1085321295?spm_id_from=333.1007.0.0)
----
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="8%" src="https://www.vectorlogo.zone/logos/goland/goland-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+</p>
 
-⭐️ 由 [zhoujunlingla](https://github.com/zhoujunlingla) 创作
+<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
