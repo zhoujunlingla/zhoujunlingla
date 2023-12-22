@@ -11,14 +11,10 @@ Welcome to my Github page! I am zhoujunlingla and I am currently finishing my Co
 
 #### 🌱 Things I am currently working on: 
 - Finish my Computer Engineering undergraduate Degree  
-- Taking online courses about Data Science and Machine Learning 
-- Complete the development of club projects and the research tasks of mentors 🚀 *coming soon*
+- Conduct scientific research on computer vision and graph neural networks 🚀
 
 #### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding at least 5 hours a day
-- Exercising 4 days a week
-- Completing meaningful projects to make the world a better place
+- Make open source contributions
 
 #### :computer: Programming languages and tools: 
 <p>
