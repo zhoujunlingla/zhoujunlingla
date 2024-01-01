@@ -6,4 +6,4 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/zhoujunlingla)
 
 
-Junior in computer science and technology at Hangzhou Dianzi University, focusing on artificial intelligence.
+Junior in computer science and technology at Hangzhou Dianzi University.
