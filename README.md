@@ -5,5 +5,3 @@
 
 
 I am a junior student of Computer Science and Technology at Hangzhou Dianzi University.
-
-Please feel free to contact [me](http://zhoujunlingla.github.io/)！
